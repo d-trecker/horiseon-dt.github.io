@@ -1,6 +1,4 @@
-# Code Refactor Starter Code #
-
-
+## Code Refactor Starter Code ##
 
 Title: Code Refractor Horiseon Challenge
 Student: Dylan Trecker
