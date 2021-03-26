@@ -20,3 +20,12 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 <!-- Changed title element to "Horiseon" -->
+
+Application's links all function correctly.
+<!--Fixed link for Search engine optimization -->
+
+Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+<!--Consolidated and organized CSS duplicates-->
+
+Application's CSS file is properly commented.
+<!--Commented on changes and page flow-->
