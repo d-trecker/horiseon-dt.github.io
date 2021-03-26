@@ -1,4 +1,14 @@
 # Code Refactor Starter Code
+Title: Code Refractor Horiseon Challenge
+Link: https://d-trecker.github.io/horiseon-dt.github.io/
+Screenshot: ![](assets/images/Screenshot.jpg)
+
+User Story:
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
+Acceptance Criteria:
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
