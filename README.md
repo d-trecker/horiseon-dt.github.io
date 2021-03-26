@@ -52,7 +52,7 @@ Application's CSS selectors and properties are consolidated and organized to fol
 
 Application's CSS file is properly commented.
 
--Commented on changes and page flow
+-Commented on changes and page flow.
 
 ------------------------------------------------------
 
