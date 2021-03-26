@@ -1,11 +1,11 @@
 # Code Refactor Starter Code # 
 
-Title: Code Refractor Horiseon Challenge
-Student: Dylan Trecker
-Description: Optimized for search engines. 
-Site Link: https://d-trecker.github.io/horiseon-dt.github.io/
-Full Repository: https://github.com/d-trecker/horiseon-dt.github.io.git
-Get the repository by: $ git clone git@github.com:d-trecker/horiseon-dt.github.io.git
+Title: Code Refractor Horiseon Challenge </br>
+Student: Dylan Trecker </br>
+Description: Optimized for search engines. </br>
+Site Link: https://d-trecker.github.io/horiseon-dt.github.io/ </br>
+Full Repository: https://github.com/d-trecker/horiseon-dt.github.io.git </br>
+Get the repository by: $ git clone git@github.com:d-trecker/horiseon-dt.github.io.git </br>
 
 User Story:
 AS A marketing agency
